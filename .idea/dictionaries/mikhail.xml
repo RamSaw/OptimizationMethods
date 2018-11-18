@@ -2,6 +2,7 @@
   <dictionary name="mikhail">
     <words>
       <w>chebyshev</w>
+      <w>lipschitz</w>
       <w>nesterov</w>
     </words>
   </dictionary>
